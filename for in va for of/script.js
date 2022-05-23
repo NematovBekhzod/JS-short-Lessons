@@ -33,7 +33,7 @@ for (let i = 0; i < keys.length; i++) {
   console.log(keys[i]);
 }
 
-//------------------------------------//
+//-------------------------------------//
 
 //! Array 'da "for in"
 // ? for in ↙️ // for of arraylar bilan ishlatiladi
