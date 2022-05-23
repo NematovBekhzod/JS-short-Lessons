@@ -1,6 +1,6 @@
 //! Loops (Sikillar) - ma'lum bir shartlar beriladi va shu shartlar to'g'ri bo'lsagina ishlaydi
 
-// 3ta asosiy turi
+// 3 ta asosiy turi
 /* 
     for()
     while()
